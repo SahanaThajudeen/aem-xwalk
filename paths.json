@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-xwalk/:/",
-    "/content/aem-xwalk/configuration:/.helix/config.json",
-    "/content/aem-xwalk/metadata:/metadata.json"
+    "/content/aem-xwalk-sahana/:/",
+    "/content/aem-xwalk-sahana/configuration:/.helix/config.json",
+    "/content/aem-xwalk-sahana/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-xwalk/"
+    "/content/aem-xwalk-sahana/"
   ]
 }
