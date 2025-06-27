@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/sahanathajudeen/aem-xwalk-sahana/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/SahanaThajudeen/sahana-xwalk/main"
     type: "markup"
     suffix: ".html"
