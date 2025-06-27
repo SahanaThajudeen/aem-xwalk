@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/sahana-xwalk/:/",
-    "/contentsahana-xwalk/configuration:/.helix/config.json",
+    "/content/sahana-xwalk/configuration:/.helix/config.json",
     "/content/sahana-xwalk/metadata:/metadata.json"
   ],
   "includes": [
